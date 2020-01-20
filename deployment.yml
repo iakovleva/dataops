@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: dataops
-        image: dataops
+        image: iakovleva/dataops:latest
         ports:
         - containerPort: 5000
